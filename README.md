@@ -1,4 +1,5 @@
 # article-outlining
-WARNING: THIS CODE IS NOT CLEAN!! I will eventually clean this up, but group projects often end up like this :)
 
 **Please look at the PDFs for any detail about this project!**
+
+*Note: the code is not very clean or well-organized. I promise these days I write better code than this :)*
